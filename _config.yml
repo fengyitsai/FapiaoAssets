@@ -1,5 +1,10 @@
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
+title: Fengyi
+description: ""
+baseurl: ""
+url: "https://fengyitsai.github.io/FapiaoAssets/" # the base hostname & protocol for your site
+github_username:  fengyitsai
+
+markdown: kramdown
+highlighter: rouge
+
+excerpt_separator: ""
