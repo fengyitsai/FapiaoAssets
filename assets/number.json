@@ -1,5 +1,5 @@
 {
-    "current": {
+    "last": {
         "specialPrize": "89996565",
         "additionalSixthPrize": [
             "取消增開"
@@ -14,18 +14,18 @@
         ]
     },
     "date": "2026-09-25 14:15:28",
-    "last": {
-        "specialPrize": "38548029",
+    "current": {
+        "specialPrize": "97606522",
         "additionalSixthPrize": [
             "取消增開"
         ],
-        "grandPrize": "10138845",
-        "period": "領獎期間自115年08月06日起至115年11月05日止",
-        "month": "115年05-06月",
+        "grandPrize": "76160702",
+        "period": "領獎期間自115年12月06日起至116年03月05日止",
+        "month": "115年09-10月",
         "firstPrize": [
-            "24121106",
-            "28589937",
-            "83663333"
+            "02096005",
+            "28745017",
+            "76740352"
         ]
     }
 }
